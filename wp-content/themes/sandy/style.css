@@ -13,3 +13,40 @@ Tags: gray, two-columns, one-column, right-sidebar, left-sidebar, flexible-width
 
 /* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
 -------------------------------------------------------------- */
+/* Hide IO global nav */
+
+#menu-global-menu {
+display: none;
+}
+
+/* Testing:  Needs Table Style */
+#needs-table {
+background-color: whiteSmoke;
+border-radius: 6px;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+}
+#needs-table td, #needs-table th {
+}
+#needs-table th {
+color: #333;
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: normal;
+text-align: left;
+padding: 0 20px;
+}
+#needs-table td {
+padding: 0 20px;
+line-height: 20px;
+color: #0084B4;
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 14px;
+border-bottom: 1px solid #fff;
+border-top: 1px solid #fff;
+}
+#needs-table td:hover {
+background-color: #fff;
+}
+/* END:  Testing:  Needs Table Style */
