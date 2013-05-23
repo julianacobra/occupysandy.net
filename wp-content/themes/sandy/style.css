@@ -19,6 +19,37 @@ Tags: gray, two-columns, one-column, right-sidebar, left-sidebar, flexible-width
 display: none;
 }*/
 
+
+/* text category headers */
+#dropoffpt-cat div
+{
+background-color:#b0c4de;
+}
+
+#animal-cat div
+{
+background-color:#b0c4de;
+width:90%;
+}
+
+#shelters-cat div
+{
+background-color:#b0c4de;
+}
+
+#localresources-cat div
+{
+background-color:#b0c4de;
+}
+
+#volunteer-cat div
+{
+background-color:#b0c4de;
+}
+
+
+*/ END:  text category headers */
+
 /* Testing:  Needs Table Style */
 #needs-table {
 background-color: whiteSmoke;
