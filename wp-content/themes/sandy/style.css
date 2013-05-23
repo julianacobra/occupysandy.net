@@ -15,9 +15,9 @@ Tags: gray, two-columns, one-column, right-sidebar, left-sidebar, flexible-width
 -------------------------------------------------------------- */
 /* Hide IO global nav */
 
-#menu-global-menu {
+/*#menu-global-menu {
 display: none;
-}
+}*/
 
 /* Testing:  Needs Table Style */
 #needs-table {
