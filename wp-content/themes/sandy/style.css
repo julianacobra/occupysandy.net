@@ -13,8 +13,10 @@ Tags: gray, two-columns, one-column, right-sidebar, left-sidebar, flexible-width
 
 /* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
 -------------------------------------------------------------- */
-/* Hide IO global nav */
 
+
+/* Hide IO global nav */
+/* hiding this also hides the page navigation menu titles */
 /*#menu-global-menu {
 display: none;
 }*/
@@ -26,9 +28,9 @@ display: none;
 background-color:#b0c4de;
 }
 
-#animal-cat div
+#pets-cat div
 {
-background-color:#b0c4de;
+background-color:#0000cc;
 width:90%;
 }
 
